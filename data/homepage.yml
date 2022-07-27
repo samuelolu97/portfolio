@@ -47,8 +47,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/samuel-olugbenga"
   image:
-    x: "img/who-am-i/pi.jpg"
-    _2x: "img/who-am-i/user-picture@2x.png"
+    x: "img/who-am-i/me3.jpg"
+    _2x: "img/who-am-i/me5.jpg"
 
 # education
 education:
@@ -75,7 +75,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "#"
+    URL: "img/who-am-i/mycvnew.pdf"
 
   items:
     - title: " Front-End Developer"
@@ -139,7 +139,7 @@ client_and_work:
       is_even: true
 
     - title: "My personal startup project : Audioflix "
-      description: "This is my personal project i'm currently working on ,it is an audio movies streaming website .The minimum viable product is currently completed .Lauching is currently ongoing "
+      description: "This is my personal project i'm currently working on ,it is an audio movies streaming website created with monolith setup consisitng of laravel for backend,svelte for frontend all glued with inertia js.The minimum viable product is currently completed .Lauching is currently ongoing "
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
@@ -169,22 +169,22 @@ testimonial:
       position: "business owner"
       content: " Since having our new website built by samuel oj, we have seen a 200% increase in the number of online contact forms being filled out and returned to us. samuel and his team worked closely with us to provide a site that met all of the criteria that we were looking for. The end result was a website that is attractive, organized and effective. Thanks to Thrive for all of your hard work and support!"
       image:
-        x: "img/testimonials/daniel-jordan.jpg"
-        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+        x: "img/who-am-i/test1.jpg"
+        _2x: "img/who-am-i/test1.jpg"
 
     - name: "seyi samson"
       position: " tech enthusiast"
       content: "With samuel oj 's help, we were able to increase the functionality of our website dramatically while cutting our costs. Our website is much more easy to use, has tons of more features than before and is incredibly easy to maintain. We could not be more happy with our new website! Thanks samuel oj!"
       image:
-        x: "img/testimonials/jonathan-peters.jpg"
-        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+        x: "img/who-am-i/test2.jpg"
+        _2x: "img/who-am-i/test2.jpg"
 
     - name: "kayode williams"
       position: "businee owner"
       content: "I would highly recommend samuel oj. They are great to work with. The traffic to our website has increased thanks to their SEO program."
       image:
-        x: "img/testimonials/antonio-willis.jpg"
-        _2x: "img/testimonials/antonio-willis@2x.jpg"
+        x: "img/who-am-i/test3.jpg"
+        _2x: "img/who-am-i/test3.jpg"
 
 # contact
 contact:
